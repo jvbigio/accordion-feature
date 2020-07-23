@@ -2,3 +2,23 @@
   --link-color: #2900b4;
   --link-color-dar: #190070;
 }
+
+[data-theme="cheese"] {
+  --background-color: #f3ca5f;
+  --text-color: #3a1e0e;
+}
+
+[data-theme="lettuce"] {
+  --background-color: #88d28b;
+  --text-color: #091e0a;
+}
+
+[data-theme="tomato"] {
+  --background-color: #f46e6e;
+  --text-color: #1a0201;
+}
+
+[data-theme="beef"] {
+  --background-color: #ac5a30;
+  --text-color: #170005;
+}
